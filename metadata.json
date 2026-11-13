@@ -1,0 +1,6 @@
+{
+  "name": "MENTE SEGURA",
+  "description": "Ferramenta para identificação de fatores de riscos psicossociais nas empresas, cálculo de índice de risco, recomendações preventivas e relatórios alinhados ao PGR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
